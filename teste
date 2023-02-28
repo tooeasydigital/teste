@@ -1,0 +1,6 @@
+graph TD;
+    A[Preparação] --> B[Aplicação do Laser];
+    B --> C[Resfriamento da Pele];
+    C --> D[Repetição do Processo];
+    D --> E[Aplicação de Hidratante];
+    E --> F[Uso de Roupas Confortáveis];
